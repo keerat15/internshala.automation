@@ -1,0 +1,13 @@
+{
+    "category": [
+        "Web Development"
+        
+    ],
+    "location": [
+        "Bangalore",
+        "Hyderabad",
+        "Chennai"  
+    ],
+    "duration": "3",
+    "includeWorkFromHome": "false"
+}
